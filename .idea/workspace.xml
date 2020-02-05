@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddaee2b9-be55-4f95-8d8b-9b36ae3ffe23" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/stepik$task5.coverage" NAME="task5 Coverage Results" MODIFIED="1573227480643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1572371077838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$task6.coverage" NAME="task6 Coverage Results" MODIFIED="1573758751566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$tasks.coverage" NAME="tasks Coverage Results" MODIFIED="1572041221453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1572787696926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1572640267551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$task7.coverage" NAME="task7 Coverage Results" MODIFIED="1574702444182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$hello.coverage" NAME="hello Coverage Results" MODIFIED="1572031903228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U7hTJd9dKWHQIjkYvCgYkN8nAR" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.task8">
+    <configuration name="smt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stepik" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stepik" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task4" type="PythonConfigurationType" factoryName="Python">
+      <module name="stepik" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stepik" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stepik" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stepik" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.task4" />
+      <item itemvalue="Python.task5" />
+      <item itemvalue="Python.smt" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.task2" />
+      <item itemvalue="Python.task8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task8" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.task2" />
+        <item itemvalue="Python.task5" />
+        <item itemvalue="Python.smt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddaee2b9-be55-4f95-8d8b-9b36ae3ffe23" name="Default" comment="" />
+      <created>1570718913850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570718913850</updated>
+      <workItem from="1574713563002" duration="15730000" />
+      <workItem from="1575056872477" duration="2665000" />
+      <workItem from="1575310998912" duration="291000" />
+      <workItem from="1575312715253" duration="1278000" />
+      <workItem from="1575740514812" duration="1011000" />
+      <workItem from="1576276509654" duration="4023000" />
+      <workItem from="1580843050070" duration="22711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="197" key="#Notifications" timestamp="1576333218207">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="515" y="197" key="#Notifications/0.0.1846.1080@0.0.1846.1080" timestamp="1576333218207" />
+    <state width="1814" height="289" key="GridCell.Tab.0.bottom" timestamp="1580905576495">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1802" height="289" key="GridCell.Tab.0.bottom/0.0.1846.1080@0.0.1846.1080" timestamp="1576336054008" />
+    <state width="1802" height="358" key="GridCell.Tab.0.bottom/0.0.1852.1080@0.0.1852.1080" timestamp="1576413478586" />
+    <state width="1814" height="289" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1580905576495" />
+    <state width="1814" height="289" key="GridCell.Tab.0.center" timestamp="1580905576495">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1802" height="289" key="GridCell.Tab.0.center/0.0.1846.1080@0.0.1846.1080" timestamp="1576336054007" />
+    <state width="1802" height="358" key="GridCell.Tab.0.center/0.0.1852.1080@0.0.1852.1080" timestamp="1576413478585" />
+    <state width="1814" height="289" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1580905576495" />
+    <state width="1814" height="289" key="GridCell.Tab.0.left" timestamp="1580905576494">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1802" height="289" key="GridCell.Tab.0.left/0.0.1846.1080@0.0.1846.1080" timestamp="1576336054007" />
+    <state width="1802" height="358" key="GridCell.Tab.0.left/0.0.1852.1080@0.0.1852.1080" timestamp="1576413478582" />
+    <state width="1814" height="289" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1580905576494" />
+    <state width="1814" height="289" key="GridCell.Tab.0.right" timestamp="1580905576495">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1802" height="289" key="GridCell.Tab.0.right/0.0.1846.1080@0.0.1846.1080" timestamp="1576336054008" />
+    <state width="1802" height="358" key="GridCell.Tab.0.right/0.0.1852.1080@0.0.1852.1080" timestamp="1576413478586" />
+    <state width="1814" height="289" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1580905576495" />
+    <state width="1814" height="358" key="GridCell.Tab.1.bottom" timestamp="1580854105978">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1802" height="358" key="GridCell.Tab.1.bottom/0.0.1846.1080@0.0.1846.1080" timestamp="1576332862328" />
+    <state width="1802" height="358" key="GridCell.Tab.1.bottom/0.0.1852.1080@0.0.1852.1080" timestamp="1576413478590" />
+    <state width="1814" height="358" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1580854105978" />
+    <state width="1814" height="358" key="GridCell.Tab.1.center" timestamp="1580854105977">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1802" height="358" key="GridCell.Tab.1.center/0.0.1846.1080@0.0.1846.1080" timestamp="1576332862328" />
+    <state width="1802" height="358" key="GridCell.Tab.1.center/0.0.1852.1080@0.0.1852.1080" timestamp="1576413478588" />
+    <state width="1814" height="358" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1580854105977" />
+    <state width="1814" height="358" key="GridCell.Tab.1.left" timestamp="1580854105977">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1802" height="358" key="GridCell.Tab.1.left/0.0.1846.1080@0.0.1846.1080" timestamp="1576332862327" />
+    <state width="1802" height="358" key="GridCell.Tab.1.left/0.0.1852.1080@0.0.1852.1080" timestamp="1576413478587" />
+    <state width="1814" height="358" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1580854105977" />
+    <state width="1814" height="358" key="GridCell.Tab.1.right" timestamp="1580854105977">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1802" height="358" key="GridCell.Tab.1.right/0.0.1846.1080@0.0.1846.1080" timestamp="1576332862328" />
+    <state width="1802" height="358" key="GridCell.Tab.1.right/0.0.1852.1080@0.0.1852.1080" timestamp="1576413478588" />
+    <state width="1814" height="358" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1580854105977" />
+    <state x="622" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1580906501661">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="618" y="362" key="com.intellij.ide.util.TipDialog/0.0.1846.1080@0.0.1846.1080" timestamp="1576276513354" />
+    <state x="622" y="362" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1580906501661" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/stepik$task5.coverage" NAME="task5 Coverage Results" MODIFIED="1575740567089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1575740787383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$test.coverage" NAME="test Coverage Results" MODIFIED="1580886616677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$task8.coverage" NAME="task8 Coverage Results" MODIFIED="1580905576478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$smt.coverage" NAME="smt Coverage Results" MODIFIED="1575058227838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/stepik$task7.coverage" NAME="task7 Coverage Results" MODIFIED="1574798913937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
