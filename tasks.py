@@ -1,15 +1,32 @@
 import numpy as np
 from sklearn.tree import DecisionTreeClassifier
 import pandas
+import re
+
 
 data = pandas . read_csv('train.csv', index_col='PassengerId')
-data['Sex'].value_counts()
-print("577 314")
-data['Survived'].value_counts()
-print(round((342/(549+342))*100, 2))
-data['Pclass'].value_counts()
-print(round(216/(216+491+184)*100, 2))
-print(data['Age'].mean(), data['Age'].median())
-print(data['SibSp'].corr(data['Parch']))
 
+
+
+def clean_name(name):
+    # Первое слово до запятой - фамилия
+    s = re.search('^[^,]+, (.*)', name)
+    if s:
+        name = s.group(1)
+
+    # Если есть скобки - то имя пассажира в них
+    s = re.search('\(([^)]+)\)', name)
+    if s:
+        name = s.group(1)
+    # Удаляем обращения
+    name = re.sub('(Miss\. |Mrs\. |Ms\. )', '', name)
+    # Берем первое оставшееся слово и удаляем кавычки
+    name = name.split(' ')[0].replace('"', '')
+    return name
+
+
+names = data[data['Sex'] == 'female']['Name'].map(clean_name)
+name_counts = names.value_counts()
+
+print(6, name_counts.head(1).index.values[0])
 
